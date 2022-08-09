@@ -1,7 +1,6 @@
 .container{
     display: grid;
     justify-items: center;
-    width: 100%;
     
 }
 .container div{
@@ -15,4 +14,4 @@ img {
    
     width: 40%;
   }
- input:focus { font-size: 16px!important} 
+
