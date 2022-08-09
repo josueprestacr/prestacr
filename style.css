@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    justify-items: center;
+    width: 100%;
+    
+}
+.container div{
+    
+}
+img {
+    padding-top:3rem;
+    
+    display: block;
+    margin: 0 auto;
+   
+    width: 40%;
+  }
