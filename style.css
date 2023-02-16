@@ -1,5 +1,6 @@
 .container{
     display: grid;
+    justify-items: center;
 
     
 }
@@ -8,6 +9,6 @@
 }
 img {
    padding-top:3rem;
-    width: 70%;
+    width: 60%;
   }
 
